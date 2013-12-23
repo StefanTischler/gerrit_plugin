@@ -6,6 +6,6 @@ solutions = [
 
 hooks = [
 	{	"pattern"	:	"*",
-		"action"	:	["git", "checkout", "master", "HEAD"]
+		"action"	:	["git", "fetch"]
 	},
 ]
