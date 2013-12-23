@@ -1,3 +1,0 @@
-[submodule "gerrit_sub2"]
-	path = gerrit_sub2
-	url = ../gerrit_sub2.git
