@@ -1,0 +1,6 @@
+[gerrit]
+host=review.gerrithub.io
+port=29418
+project=StefanTischler/gerrit_plugin
+defaultbranch=master
+defaultremote=review
